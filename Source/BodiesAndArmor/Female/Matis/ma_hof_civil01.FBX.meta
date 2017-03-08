@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: f8514378ccd1144a1ac9418d4ffe269b
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: MA_HOF_visage
+    100002: Bip01 R Foot
+    100004: name
+    100006: Bip01 L Toe0 1
+    100008: Bip01 R Toe0
+    100010: Bip01 L Foot
+    100012: Bip01 R Calf
+    100014: Bip01 R Thigh
+    100018: //RootNode
+    100020: Bip01 R Toe0 1
+    100022: MA_HOF_underwear_hand
+    100024: Bip01 L Finger41
+    100026: Bip01 L Finger3
+    100028: Bip01 L Finger3 1
+    100030: Bip01 L Finger22
+    100032: Bip01 L Finger31
+    100034: Bip01 L Finger2
+    100036: Bip01 L Finger2 1
+    100038: Bip01 L Finger12
+    100040: Bip01 L Finger21
+    100042: Bip01 L Finger1
+    100044: Bip01 L Finger1 1
+    100046: Bip01 L Finger02
+    100048: Bip01 L Finger11
+    100050: Bip01 L Finger0
+    100052: Bip01 L Finger0 1
+    100054: Bip01 L Forearm
+    100056: Bip01 L Finger01
+    100058: Bip01 L Clavicle
+    100060: Bip01 L Hand
+    100062: cheveux_go
+    100064: Bip01 L UpperArm
+    100066: Dummy15
+    100068: Dummy06
+    100070: Bip01 Ponytail1 1
+    100072: Bip01 Ponytail11
+    100074: cheveux_dr
+    100076: Bip01 Head 1
+    100078: Bip01 Ponytail12
+    100080: Bip01 Neck
+    100082: Bip01 Ponytail1
+    100084: Bip01 Spine1
+    100086: Bip01 Head
+    100088: Bip01 Pelvis
+    100090: Bip01 Spine2
+    100092: Bip01
+    100094: Bip01 Spine
+    100096: MA_HOF_civil01_gilet
+    100098: Bip01 Footsteps
+    100100: MA_HOF_civil01_pantabottes
+    100104: MA_HOF_civil01_armpad
+    100106: MA_HOF_civil01_bottes
+    100108: Bip01 R Finger3R
+    100110: Bip01 R Finger22
+    100112: Bip01 R Finger31
+    100114: Bip01 R Finger2
+    100116: Bip01 R Finger2R
+    100118: Bip01 R Finger12
+    100120: Bip01 R Finger21
+    100122: Bip01 R Finger0R
+    100124: Bip01 R Finger1R
+    100126: Bip01 R Finger01
+    100128: Bip01 R Finger11
+    100130: Bip01 R Finger1
+    100132: Bip01 R Hand
+    100134: Bip01 R Finger02
+    100136: Bip01 R UpperArm
+    100138: Bip01 R Finger0
+    100140: Bip01 L Finger4 1
+    100142: Bip01 R Forearm
+    100144: Box_bouclier
+    100146: Bip01 R Clavicle
+    100148: Bip01 L Finger4
+    100150: box_arme_gauche
+    100152: Bip01 L Finger32
+    100154: Bip01 L Finger42
+    100156: Bip01 L Thigh
+    100158: Bip01 L Toe0
+    100160: sein_gauche
+    100162: Bip01 L Calf
+    100164: Dummy01
+    100166: Dummy02
+    100168: box_arme
+    100170: Bip01 R Finger4R
+    100172: sein_droit
+    100174: Bip01 R Finger3
+    100176: Bip01 R Finger32
+    100178: Bip01 R Finger42
+    100180: Bip01 R Finger4
+    100182: Bip01 R Finger41
+    400000: MA_HOF_visage
+    400002: Bip01 R Foot
+    400004: name
+    400006: Bip01 L Toe0 1
+    400008: Bip01 R Toe0
+    400010: Bip01 L Foot
+    400012: Bip01 R Calf
+    400014: Bip01 R Thigh
+    400018: //RootNode
+    400020: Bip01 R Toe0 1
+    400022: MA_HOF_underwear_hand
+    400024: Bip01 L Finger41
+    400026: Bip01 L Finger3
+    400028: Bip01 L Finger3 1
+    400030: Bip01 L Finger22
+    400032: Bip01 L Finger31
+    400034: Bip01 L Finger2
+    400036: Bip01 L Finger2 1
+    400038: Bip01 L Finger12
+    400040: Bip01 L Finger21
+    400042: Bip01 L Finger1
+    400044: Bip01 L Finger1 1
+    400046: Bip01 L Finger02
+    400048: Bip01 L Finger11
+    400050: Bip01 L Finger0
+    400052: Bip01 L Finger0 1
+    400054: Bip01 L Forearm
+    400056: Bip01 L Finger01
+    400058: Bip01 L Clavicle
+    400060: Bip01 L Hand
+    400062: cheveux_go
+    400064: Bip01 L UpperArm
+    400066: Dummy15
+    400068: Dummy06
+    400070: Bip01 Ponytail1 1
+    400072: Bip01 Ponytail11
+    400074: cheveux_dr
+    400076: Bip01 Head 1
+    400078: Bip01 Ponytail12
+    400080: Bip01 Neck
+    400082: Bip01 Ponytail1
+    400084: Bip01 Spine1
+    400086: Bip01 Head
+    400088: Bip01 Pelvis
+    400090: Bip01 Spine2
+    400092: Bip01
+    400094: Bip01 Spine
+    400096: MA_HOF_civil01_gilet
+    400098: Bip01 Footsteps
+    400100: MA_HOF_civil01_pantabottes
+    400104: MA_HOF_civil01_armpad
+    400106: MA_HOF_civil01_bottes
+    400108: Bip01 R Finger3R
+    400110: Bip01 R Finger22
+    400112: Bip01 R Finger31
+    400114: Bip01 R Finger2
+    400116: Bip01 R Finger2R
+    400118: Bip01 R Finger12
+    400120: Bip01 R Finger21
+    400122: Bip01 R Finger0R
+    400124: Bip01 R Finger1R
+    400126: Bip01 R Finger01
+    400128: Bip01 R Finger11
+    400130: Bip01 R Finger1
+    400132: Bip01 R Hand
+    400134: Bip01 R Finger02
+    400136: Bip01 R UpperArm
+    400138: Bip01 R Finger0
+    400140: Bip01 L Finger4 1
+    400142: Bip01 R Forearm
+    400144: Box_bouclier
+    400146: Bip01 R Clavicle
+    400148: Bip01 L Finger4
+    400150: box_arme_gauche
+    400152: Bip01 L Finger32
+    400154: Bip01 L Finger42
+    400156: Bip01 L Thigh
+    400158: Bip01 L Toe0
+    400160: sein_gauche
+    400162: Bip01 L Calf
+    400164: Dummy01
+    400166: Dummy02
+    400168: box_arme
+    400170: Bip01 R Finger4R
+    400172: sein_droit
+    400174: Bip01 R Finger3
+    400176: Bip01 R Finger32
+    400178: Bip01 R Finger42
+    400180: Bip01 R Finger4
+    400182: Bip01 R Finger41
+    2300000: MA_HOF_visage
+    2300002: cheveux_go
+    2300004: cheveux_dr
+    2300006: Box_bouclier
+    2300008: box_arme_gauche
+    2300010: sein_gauche
+    2300012: box_arme
+    2300014: sein_droit
+    3300000: MA_HOF_visage
+    3300002: cheveux_go
+    3300004: cheveux_dr
+    3300006: Box_bouclier
+    3300008: box_arme_gauche
+    3300010: sein_gauche
+    3300012: box_arme
+    3300014: sein_droit
+    4300000: MA_HOF_civil01_bottes
+    4300002: MA_HOF_civil01_pantabottes
+    4300004: MA_HOF_civil01_armpad
+    4300006: MA_HOF_civil01_gilet
+    4300008: cheveux_dr
+    4300010: cheveux_go
+    4300012: box_arme_gauche
+    4300014: Box_bouclier
+    4300016: box_arme
+    4300018: sein_droit
+    4300020: sein_gauche
+    4300022: MA_HOF_underwear_hand
+    4300024: MA_HOF_visage
+    6400000: sein_droit
+    6400002: cheveux_dr
+    6400004: MA_HOF_visage
+    6400006: Box_bouclier
+    6400008: cheveux_go
+    6400010: sein_gauche
+    6400012: box_arme
+    6400014: box_arme_gauche
+    11100000: //RootNode
+    13700000: MA_HOF_underwear_hand
+    13700002: MA_HOF_civil01_gilet
+    13700004: MA_HOF_civil01_pantabottes
+    13700006: MA_HOF_civil01_armpad
+    13700008: MA_HOF_civil01_bottes
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.60000002
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 5bc33919fcec647e88de3686924b09f7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Dummy06
+    100002: cheveux_go
+    100004: Dummy15
+    100006: cheveux_dr
+    100008: Dummy05
+    100010: Bip01 Head
+    100012: Bip01 Neck
+    100014: Bip01 Spine2
+    100016: Bip01 Spine1
+    100018: Bip01 Spine
+    100020: Bip01 Pelvis
+    100022: Bip01 Footsteps
+    100024: Bip01
+    100026: TR_HOM_armor00_hand
+    100028: TR_HOM_armor00_armpad
+    100030: TR_HOM_armor00_bottes
+    100032: TR_HOM_armor00_gilet
+    100034: box_arme_gauche
+    100036: Dummy14
+    100038: Bip01 L Finger42
+    100040: Bip01 L Finger41
+    100042: Bip01 L Finger4
+    100044: Dummy12
+    100046: Bip01 L Finger32
+    100048: Bip01 L Finger31
+    100050: Bip01 L Finger3
+    100052: Dummy10
+    100054: Bip01 L Finger22
+    100056: Bip01 L Finger21
+    100058: Bip01 L Finger2
+    100060: Dummy08
+    100062: Bip01 L Finger12
+    100064: Bip01 L Finger11
+    100066: Bip01 L Finger1
+    100068: Dummy02
+    100070: Bip01 L Finger02
+    100072: Bip01 L Finger01
+    100074: Bip01 L Finger0
+    100076: Bip01 L Hand
+    100078: Bip01 L Forearm
+    100080: Bip01 L UpperArm
+    100082: Bip01 L Clavicle
+    100084: Bip01 Ponytail1 1
+    100086: Bip01 Ponytail12
+    100088: Bip01 Ponytail11
+    100090: Bip01 Ponytail1
+    100092: Bip01 L Thigh
+    100094: box_arme
+    100096: Dummy13
+    100098: Bip01 R Finger42
+    100100: Bip01 R Finger41
+    100102: Bip01 R Finger4
+    100104: Dummy11
+    100106: Bip01 R Finger32
+    100108: Bip01 R Finger31
+    100110: Bip01 R Finger3
+    100112: Dummy09
+    100114: Bip01 R Finger22
+    100116: Bip01 R Finger21
+    100118: Bip01 R Finger2
+    100120: Dummy07
+    100122: Bip01 R Finger12
+    100124: Bip01 R Finger11
+    100126: Bip01 R Finger1
+    100128: Dummy01
+    100130: Bip01 R Finger02
+    100132: Bip01 R Finger01
+    100134: Bip01 R Finger0
+    100136: Bip01 R Hand
+    100138: Bip01 R Forearm
+    100140: Bip01 R UpperArm
+    100142: Bip01 R Clavicle
+    100144: Box_bouclier
+    100146: //RootNode
+    100148: TR_HOM_armor00_pantabottes
+    100150: TR_HOM_visage
+    100152: name
+    100154: Dummy03
+    100156: Bip01 R Toe0
+    100158: Bip01 R Foot
+    100160: Bip01 R Calf
+    100162: Bip01 R Thigh
+    100164: Dummy04
+    100166: Bip01 L Toe0
+    100168: Bip01 L Foot
+    100170: Bip01 L Calf
+    400000: Dummy06
+    400002: cheveux_go
+    400004: Dummy15
+    400006: cheveux_dr
+    400008: Dummy05
+    400010: Bip01 Head
+    400012: Bip01 Neck
+    400014: Bip01 Spine2
+    400016: Bip01 Spine1
+    400018: Bip01 Spine
+    400020: Bip01 Pelvis
+    400022: Bip01 Footsteps
+    400024: Bip01
+    400026: TR_HOM_armor00_hand
+    400028: TR_HOM_armor00_armpad
+    400030: TR_HOM_armor00_bottes
+    400032: TR_HOM_armor00_gilet
+    400034: box_arme_gauche
+    400036: Dummy14
+    400038: Bip01 L Finger42
+    400040: Bip01 L Finger41
+    400042: Bip01 L Finger4
+    400044: Dummy12
+    400046: Bip01 L Finger32
+    400048: Bip01 L Finger31
+    400050: Bip01 L Finger3
+    400052: Dummy10
+    400054: Bip01 L Finger22
+    400056: Bip01 L Finger21
+    400058: Bip01 L Finger2
+    400060: Dummy08
+    400062: Bip01 L Finger12
+    400064: Bip01 L Finger11
+    400066: Bip01 L Finger1
+    400068: Dummy02
+    400070: Bip01 L Finger02
+    400072: Bip01 L Finger01
+    400074: Bip01 L Finger0
+    400076: Bip01 L Hand
+    400078: Bip01 L Forearm
+    400080: Bip01 L UpperArm
+    400082: Bip01 L Clavicle
+    400084: Bip01 Ponytail1 1
+    400086: Bip01 Ponytail12
+    400088: Bip01 Ponytail11
+    400090: Bip01 Ponytail1
+    400092: Bip01 L Thigh
+    400094: box_arme
+    400096: Dummy13
+    400098: Bip01 R Finger42
+    400100: Bip01 R Finger41
+    400102: Bip01 R Finger4
+    400104: Dummy11
+    400106: Bip01 R Finger32
+    400108: Bip01 R Finger31
+    400110: Bip01 R Finger3
+    400112: Dummy09
+    400114: Bip01 R Finger22
+    400116: Bip01 R Finger21
+    400118: Bip01 R Finger2
+    400120: Dummy07
+    400122: Bip01 R Finger12
+    400124: Bip01 R Finger11
+    400126: Bip01 R Finger1
+    400128: Dummy01
+    400130: Bip01 R Finger02
+    400132: Bip01 R Finger01
+    400134: Bip01 R Finger0
+    400136: Bip01 R Hand
+    400138: Bip01 R Forearm
+    400140: Bip01 R UpperArm
+    400142: Bip01 R Clavicle
+    400144: Box_bouclier
+    400146: //RootNode
+    400148: TR_HOM_armor00_pantabottes
+    400150: TR_HOM_visage
+    400152: name
+    400154: Dummy03
+    400156: Bip01 R Toe0
+    400158: Bip01 R Foot
+    400160: Bip01 R Calf
+    400162: Bip01 R Thigh
+    400164: Dummy04
+    400166: Bip01 L Toe0
+    400168: Bip01 L Foot
+    400170: Bip01 L Calf
+    2300000: cheveux_go
+    2300002: cheveux_dr
+    2300004: box_arme_gauche
+    2300006: box_arme
+    2300008: Box_bouclier
+    2300010: TR_HOM_visage
+    3300000: cheveux_go
+    3300002: cheveux_dr
+    3300004: box_arme_gauche
+    3300006: box_arme
+    3300008: Box_bouclier
+    3300010: TR_HOM_visage
+    4300000: TR_HOM_armor00_gilet
+    4300002: TR_HOM_armor00_bottes
+    4300004: TR_HOM_armor00_armpad
+    4300006: TR_HOM_armor00_hand
+    4300008: cheveux_dr
+    4300010: cheveux_go
+    4300012: box_arme_gauche
+    4300014: Box_bouclier
+    4300016: box_arme
+    4300018: TR_HOM_visage
+    4300020: TR_HOM_armor00_pantabottes
+    11100000: //RootNode
+    13700000: TR_HOM_armor00_hand
+    13700002: TR_HOM_armor00_armpad
+    13700004: TR_HOM_armor00_bottes
+    13700006: TR_HOM_armor00_gilet
+    13700008: TR_HOM_armor00_pantabottes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.60000002
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

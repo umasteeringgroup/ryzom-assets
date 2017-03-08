@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: f4bcd23a0015c437ea57f2ebd276355c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: visage_308
+    100004: visage_315
+    100006: visage_310
+    100008: visage_313
+    100010: visage_312
+    100012: visage_314
+    100014: visage_309
+    100016: Text55
+    100018: visage_311
+    100020: Text61
+    100022: Text60
+    100024: Text54
+    100026: Text58
+    100028: Text57
+    100030: Text59
+    100032: visage_TEST
+    100034: visage_007
+    100036: Text56
+    100038: visage_100
+    100040: visage_300
+    100042: Text36
+    100044: visage_302
+    100046: visage_303
+    100048: visage_301
+    100050: visage_305
+    100052: visage_306
+    100054: visage_304
+    100056: visage_000
+    100058: visage_001
+    100060: visage_307
+    100062: visage_003
+    100064: visage_004
+    100066: visage_002
+    100068: Text35
+    100070: visage_005
+    100072: Rectangle10
+    100074: FY_HOF_visage_TEST_00
+    100076: visage_200
+    100078: visage_201
+    100080: visage_006
+    100082: FY_HOF_visage-test
+    100084: visage_202
+    100086: FY_HOF_visage-test 7
+    100088: FY_HOF_visage-test 4
+    100090: FY_HOF_visage-test 5
+    100092: FY_HOF_visage-test 6
+    100094: FY_HOF_visage-test 2
+    100096: FY_HOF_visage-test 3
+    100098: Bip01 R Toe0 1
+    100100: FY_HOF_visage
+    100102: FY_HOF_visage-test 1
+    100104: Bip01 R Foot
+    100106: name
+    100108: Bip01 R Thigh
+    100110: Bip01 R Toe0
+    100112: Bip01 L Toe0
+    100114: Bip01 R Calf
+    100116: Bip01 L Calf
+    100118: Bip01 L Toe0 1
+    100120: box_arme
+    100122: Bip01 L Foot
+    100124: Bip01 R Finger4R
+    100126: Bip01 L Thigh
+    100128: Bip01 R Finger3R
+    100130: Bip01 R Finger41
+    100132: Bip01 R Finger42
+    100134: Bip01 R Finger31
+    100136: Bip01 R Finger4
+    100138: Bip01 R Finger2R
+    100140: Bip01 R Finger32
+    100142: Bip01 R Finger21
+    100144: Bip01 R Finger3
+    100146: Bip01 R Finger1R
+    100148: Bip01 R Finger22
+    100150: Bip01 R Finger11
+    100152: Bip01 R Finger2
+    100154: Bip01 R Finger0R
+    100156: Bip01 R Finger12
+    100158: Bip01 R Finger01
+    100160: Bip01 R Finger1
+    100162: Bip01 R Hand
+    100164: Bip01 R Finger02
+    100166: Bip01 R UpperArm
+    100168: Bip01 R Finger0
+    100170: Box_bouclier
+    100172: Bip01 R Forearm
+    100174: box_arme_gauche
+    100176: Bip01 R Clavicle
+    100178: Bip01 L Finger42
+    100180: Bip01 L Finger4
+    100182: Bip01 L Finger4 1
+    100184: Bip01 L Finger32
+    100186: Bip01 L Finger41
+    100188: Bip01 L Finger3
+    100190: Bip01 L Finger3 1
+    100192: Bip01 L Finger22
+    100194: Bip01 L Finger31
+    100196: Bip01 L Finger2
+    100198: Bip01 L Finger2 1
+    100200: Bip01 L Finger12
+    100202: Bip01 L Finger21
+    100204: Bip01 L Finger1
+    100206: Bip01 L Finger1 1
+    100208: Bip01 L Finger02
+    100210: Bip01 L Finger11
+    100212: Bip01 L Finger0
+    100214: Bip01 L Finger0 1
+    100216: Bip01 L Forearm
+    100218: Bip01 L Finger01
+    100220: Bip01 L Clavicle
+    100222: Bip01 L Hand
+    100224: Bip01 Ponytail11
+    100226: Bip01 L UpperArm
+    100228: Bip01 Head 1
+    100230: Bip01 Ponytail1 1
+    100232: Bip01 Neck
+    100234: Bip01 Ponytail1
+    100236: Bip01 Spine1
+    100238: Bip01 Head
+    100240: Bip01 Pelvis
+    100242: Bip01 Spine2
+    100244: Bip01
+    100246: Bip01 Spine
+    100248: FY_HOF_cheveux01
+    100250: Bip01 Footsteps
+    100252: Text33
+    100254: Text32
+    100256: Text34
+    100258: Text30
+    100260: Text29
+    100262: Text31
+    100264: Text28
+    100266: Text25
+    100268: Rectangle09
+    100270: Text24
+    100272: Text23
+    100274: Text11
+    100276: Text08
+    100278: Text06
+    100280: Text09
+    100282: Text04
+    100284: Text03
+    100286: Rectangle01
+    100288: Text01
+    100290: Text05
+    100292: Text02
+    100294: Text17
+    100296: Text16
+    100298: Rectangle06
+    100300: Text13
+    100302: Text14
+    100304: Text15
+    100306: Text19
+    100308: Rectangle07
+    100310: TR_HOF_underwear_gilet
+    400000: //RootNode
+    400002: visage_308
+    400004: visage_315
+    400006: visage_310
+    400008: visage_313
+    400010: visage_312
+    400012: visage_314
+    400014: visage_309
+    400016: Text55
+    400018: visage_311
+    400020: Text61
+    400022: Text60
+    400024: Text54
+    400026: Text58
+    400028: Text57
+    400030: Text59
+    400032: visage_TEST
+    400034: visage_007
+    400036: Text56
+    400038: visage_100
+    400040: visage_300
+    400042: Text36
+    400044: visage_302
+    400046: visage_303
+    400048: visage_301
+    400050: visage_305
+    400052: visage_306
+    400054: visage_304
+    400056: visage_000
+    400058: visage_001
+    400060: visage_307
+    400062: visage_003
+    400064: visage_004
+    400066: visage_002
+    400068: Text35
+    400070: visage_005
+    400072: Rectangle10
+    400074: FY_HOF_visage_TEST_00
+    400076: visage_200
+    400078: visage_201
+    400080: visage_006
+    400082: FY_HOF_visage-test
+    400084: visage_202
+    400086: FY_HOF_visage-test 7
+    400088: FY_HOF_visage-test 4
+    400090: FY_HOF_visage-test 5
+    400092: FY_HOF_visage-test 6
+    400094: FY_HOF_visage-test 2
+    400096: FY_HOF_visage-test 3
+    400098: Bip01 R Toe0 1
+    400100: FY_HOF_visage
+    400102: FY_HOF_visage-test 1
+    400104: Bip01 R Foot
+    400106: name
+    400108: Bip01 R Thigh
+    400110: Bip01 R Toe0
+    400112: Bip01 L Toe0
+    400114: Bip01 R Calf
+    400116: Bip01 L Calf
+    400118: Bip01 L Toe0 1
+    400120: box_arme
+    400122: Bip01 L Foot
+    400124: Bip01 R Finger4R
+    400126: Bip01 L Thigh
+    400128: Bip01 R Finger3R
+    400130: Bip01 R Finger41
+    400132: Bip01 R Finger42
+    400134: Bip01 R Finger31
+    400136: Bip01 R Finger4
+    400138: Bip01 R Finger2R
+    400140: Bip01 R Finger32
+    400142: Bip01 R Finger21
+    400144: Bip01 R Finger3
+    400146: Bip01 R Finger1R
+    400148: Bip01 R Finger22
+    400150: Bip01 R Finger11
+    400152: Bip01 R Finger2
+    400154: Bip01 R Finger0R
+    400156: Bip01 R Finger12
+    400158: Bip01 R Finger01
+    400160: Bip01 R Finger1
+    400162: Bip01 R Hand
+    400164: Bip01 R Finger02
+    400166: Bip01 R UpperArm
+    400168: Bip01 R Finger0
+    400170: Box_bouclier
+    400172: Bip01 R Forearm
+    400174: box_arme_gauche
+    400176: Bip01 R Clavicle
+    400178: Bip01 L Finger42
+    400180: Bip01 L Finger4
+    400182: Bip01 L Finger4 1
+    400184: Bip01 L Finger32
+    400186: Bip01 L Finger41
+    400188: Bip01 L Finger3
+    400190: Bip01 L Finger3 1
+    400192: Bip01 L Finger22
+    400194: Bip01 L Finger31
+    400196: Bip01 L Finger2
+    400198: Bip01 L Finger2 1
+    400200: Bip01 L Finger12
+    400202: Bip01 L Finger21
+    400204: Bip01 L Finger1
+    400206: Bip01 L Finger1 1
+    400208: Bip01 L Finger02
+    400210: Bip01 L Finger11
+    400212: Bip01 L Finger0
+    400214: Bip01 L Finger0 1
+    400216: Bip01 L Forearm
+    400218: Bip01 L Finger01
+    400220: Bip01 L Clavicle
+    400222: Bip01 L Hand
+    400224: Bip01 Ponytail11
+    400226: Bip01 L UpperArm
+    400228: Bip01 Head 1
+    400230: Bip01 Ponytail1 1
+    400232: Bip01 Neck
+    400234: Bip01 Ponytail1
+    400236: Bip01 Spine1
+    400238: Bip01 Head
+    400240: Bip01 Pelvis
+    400242: Bip01 Spine2
+    400244: Bip01
+    400246: Bip01 Spine
+    400248: FY_HOF_cheveux01
+    400250: Bip01 Footsteps
+    400252: Text33
+    400254: Text32
+    400256: Text34
+    400258: Text30
+    400260: Text29
+    400262: Text31
+    400264: Text28
+    400266: Text25
+    400268: Rectangle09
+    400270: Text24
+    400272: Text23
+    400274: Text11
+    400276: Text08
+    400278: Text06
+    400280: Text09
+    400282: Text04
+    400284: Text03
+    400286: Rectangle01
+    400288: Text01
+    400290: Text05
+    400292: Text02
+    400294: Text17
+    400296: Text16
+    400298: Rectangle06
+    400300: Text13
+    400302: Text14
+    400304: Text15
+    400306: Text19
+    400308: Rectangle07
+    400310: TR_HOF_underwear_gilet
+    2300000: visage_308
+    2300002: visage_315
+    2300004: visage_310
+    2300006: visage_313
+    2300008: visage_312
+    2300010: visage_314
+    2300012: visage_309
+    2300014: Text55
+    2300016: visage_311
+    2300018: Text61
+    2300020: Text60
+    2300022: Text54
+    2300024: Text58
+    2300026: Text57
+    2300028: Text59
+    2300030: visage_TEST
+    2300032: visage_007
+    2300034: Text56
+    2300036: visage_100
+    2300038: visage_300
+    2300040: Text36
+    2300042: visage_302
+    2300044: visage_303
+    2300046: visage_301
+    2300048: visage_305
+    2300050: visage_306
+    2300052: visage_304
+    2300054: visage_000
+    2300056: visage_001
+    2300058: visage_307
+    2300060: visage_003
+    2300062: visage_004
+    2300064: visage_002
+    2300066: Text35
+    2300068: visage_005
+    2300070: Rectangle10
+    2300072: FY_HOF_visage_TEST_00
+    2300074: visage_200
+    2300076: visage_201
+    2300078: visage_006
+    2300080: FY_HOF_visage-test
+    2300082: visage_202
+    2300084: FY_HOF_visage-test 7
+    2300086: FY_HOF_visage-test 4
+    2300088: FY_HOF_visage-test 5
+    2300090: FY_HOF_visage-test 6
+    2300092: FY_HOF_visage-test 2
+    2300094: FY_HOF_visage-test 3
+    2300096: FY_HOF_visage-test 1
+    2300098: box_arme
+    2300100: Box_bouclier
+    2300102: box_arme_gauche
+    2300104: FY_HOF_cheveux01
+    2300106: Text33
+    2300108: Text32
+    2300110: Text34
+    2300112: Text30
+    2300114: Text29
+    2300116: Text31
+    2300118: Text28
+    2300120: Text25
+    2300122: Rectangle09
+    2300124: Text24
+    2300126: Text23
+    2300128: Text11
+    2300130: Text08
+    2300132: Text06
+    2300134: Text09
+    2300136: Text04
+    2300138: Text03
+    2300140: Rectangle01
+    2300142: Text01
+    2300144: Text05
+    2300146: Text02
+    2300148: Text17
+    2300150: Text16
+    2300152: Rectangle06
+    2300154: Text13
+    2300156: Text14
+    2300158: Text15
+    2300160: Text19
+    2300162: Rectangle07
+    2300164: TR_HOF_underwear_gilet
+    3300000: visage_308
+    3300002: visage_315
+    3300004: visage_310
+    3300006: visage_313
+    3300008: visage_312
+    3300010: visage_314
+    3300012: visage_309
+    3300014: Text55
+    3300016: visage_311
+    3300018: Text61
+    3300020: Text60
+    3300022: Text54
+    3300024: Text58
+    3300026: Text57
+    3300028: Text59
+    3300030: visage_TEST
+    3300032: visage_007
+    3300034: Text56
+    3300036: visage_100
+    3300038: visage_300
+    3300040: Text36
+    3300042: visage_302
+    3300044: visage_303
+    3300046: visage_301
+    3300048: visage_305
+    3300050: visage_306
+    3300052: visage_304
+    3300054: visage_000
+    3300056: visage_001
+    3300058: visage_307
+    3300060: visage_003
+    3300062: visage_004
+    3300064: visage_002
+    3300066: Text35
+    3300068: visage_005
+    3300070: Rectangle10
+    3300072: FY_HOF_visage_TEST_00
+    3300074: visage_200
+    3300076: visage_201
+    3300078: visage_006
+    3300080: FY_HOF_visage-test
+    3300082: visage_202
+    3300084: FY_HOF_visage-test 7
+    3300086: FY_HOF_visage-test 4
+    3300088: FY_HOF_visage-test 5
+    3300090: FY_HOF_visage-test 6
+    3300092: FY_HOF_visage-test 2
+    3300094: FY_HOF_visage-test 3
+    3300096: FY_HOF_visage-test 1
+    3300098: box_arme
+    3300100: Box_bouclier
+    3300102: box_arme_gauche
+    3300104: FY_HOF_cheveux01
+    3300106: Text33
+    3300108: Text32
+    3300110: Text34
+    3300112: Text30
+    3300114: Text29
+    3300116: Text31
+    3300118: Text28
+    3300120: Text25
+    3300122: Rectangle09
+    3300124: Text24
+    3300126: Text23
+    3300128: Text11
+    3300130: Text08
+    3300132: Text06
+    3300134: Text09
+    3300136: Text04
+    3300138: Text03
+    3300140: Rectangle01
+    3300142: Text01
+    3300144: Text05
+    3300146: Text02
+    3300148: Text17
+    3300150: Text16
+    3300152: Rectangle06
+    3300154: Text13
+    3300156: Text14
+    3300158: Text15
+    3300160: Text19
+    3300162: Rectangle07
+    3300164: TR_HOF_underwear_gilet
+    4300000: TR_HOF_underwear_gilet
+    4300002: Text19
+    4300004: Rectangle07
+    4300006: Text14
+    4300008: Text13
+    4300010: Text15
+    4300012: Text16
+    4300014: Text17
+    4300016: Rectangle06
+    4300018: Text05
+    4300020: Text01
+    4300022: Text02
+    4300024: Text03
+    4300026: Text04
+    4300028: Rectangle01
+    4300030: Text06
+    4300032: Text08
+    4300034: Text09
+    4300036: Text23
+    4300038: Text24
+    4300040: Text11
+    4300042: Text25
+    4300044: Text28
+    4300046: Rectangle09
+    4300048: Text29
+    4300050: Text30
+    4300052: Text31
+    4300054: Text32
+    4300056: Text33
+    4300058: Text34
+    4300060: FY_HOF_cheveux01
+    4300062: box_arme_gauche
+    4300064: Box_bouclier
+    4300066: box_arme
+    4300068: FY_HOF_visage
+    4300070: FY_HOF_visage-test
+    4300072: FY_HOF_visage-test
+    4300074: FY_HOF_visage-test
+    4300076: FY_HOF_visage-test
+    4300078: FY_HOF_visage-test
+    4300080: FY_HOF_visage-test
+    4300082: FY_HOF_visage-test
+    4300084: FY_HOF_visage-test
+    4300086: visage_202
+    4300088: visage_201
+    4300090: visage_200
+    4300092: visage_006
+    4300094: Rectangle10
+    4300096: Text35
+    4300098: FY_HOF_visage_TEST_00
+    4300100: visage_005
+    4300102: visage_004
+    4300104: visage_003
+    4300106: visage_002
+    4300108: visage_001
+    4300110: visage_000
+    4300112: visage_307
+    4300114: visage_306
+    4300116: visage_305
+    4300118: visage_304
+    4300120: visage_303
+    4300122: visage_302
+    4300124: visage_301
+    4300126: visage_300
+    4300128: visage_100
+    4300130: Text36
+    4300132: visage_007
+    4300134: visage_TEST
+    4300136: Text56
+    4300138: Text57
+    4300140: Text58
+    4300142: Text59
+    4300144: Text60
+    4300146: Text61
+    4300148: Text54
+    4300150: Text55
+    4300152: visage_309
+    4300154: visage_311
+    4300156: visage_312
+    4300158: visage_313
+    4300160: visage_314
+    4300162: visage_315
+    4300164: visage_308
+    4300166: visage_310
+    6400000: visage_300
+    6400002: visage_005
+    6400004: visage_307
+    6400006: Text02
+    6400008: visage_312
+    6400010: Text24
+    6400012: FY_HOF_visage-test 5
+    6400014: Text11
+    6400016: Text31
+    6400018: FY_HOF_cheveux01
+    6400020: Rectangle10
+    6400022: visage_315
+    6400024: FY_HOF_visage-test 2
+    6400026: Text28
+    6400028: visage_313
+    6400030: visage_304
+    6400032: Text57
+    6400034: Text06
+    6400036: visage_305
+    6400038: Rectangle01
+    6400040: visage_001
+    6400042: Rectangle09
+    6400044: visage_004
+    6400046: Text03
+    6400048: Text19
+    6400050: Text33
+    6400052: Text34
+    6400054: FY_HOF_visage-test 7
+    6400056: Text32
+    6400058: visage_302
+    6400060: FY_HOF_visage-test 1
+    6400062: TR_HOF_underwear_gilet
+    6400064: visage_003
+    6400066: Text35
+    6400068: visage_100
+    6400070: Text01
+    6400072: visage_314
+    6400074: visage_303
+    6400076: visage_TEST
+    6400078: Text05
+    6400080: Text04
+    6400082: FY_HOF_visage-test 4
+    6400084: Text30
+    6400086: Text56
+    6400088: visage_000
+    6400090: FY_HOF_visage-test
+    6400092: FY_HOF_visage-test 6
+    6400094: Text36
+    6400096: Rectangle06
+    6400098: FY_HOF_visage_TEST_00
+    6400100: visage_201
+    6400102: visage_309
+    6400104: Text17
+    6400106: Text08
+    6400108: visage_310
+    6400110: Text23
+    6400112: visage_007
+    6400114: Box_bouclier
+    6400116: visage_308
+    6400118: Text25
+    6400120: visage_311
+    6400122: Rectangle07
+    6400124: Text29
+    6400126: Text09
+    6400128: visage_202
+    6400130: Text15
+    6400132: visage_306
+    6400134: visage_301
+    6400136: visage_006
+    6400138: box_arme
+    6400140: Text55
+    6400142: Text59
+    6400144: Text16
+    6400146: Text13
+    6400148: Text60
+    6400150: Text54
+    6400152: Text14
+    6400154: box_arme_gauche
+    6400156: FY_HOF_visage-test 3
+    6400158: visage_200
+    6400160: Text58
+    6400162: Text61
+    6400164: visage_002
+    11100000: //RootNode
+    13700000: FY_HOF_visage
+    13700002: FY_HOF_visage_TEST_00
+    13700004: visage_TEST
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.60000002
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

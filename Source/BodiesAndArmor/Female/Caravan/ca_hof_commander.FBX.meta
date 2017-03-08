@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 5289cbbc9f86543cab0e04a5e3a70e23
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip01 L Finger3 1
+    100002: Bip01 L Finger42
+    100004: Bip01 L Finger3
+    100006: Bip01 L Finger4
+    100008: Bip01 L Finger22
+    100010: Bip01 L Finger32
+    100012: Bip01 L Finger31
+    100014: Bip01 Tail 1
+    100016: //RootNode
+    100018: Bip01 Tail1
+    100020: name
+    100022: Bip01 R Toe0
+    100024: Bip01 Tail2
+    100026: Bip01 R Foot
+    100028: Bip01 Tail
+    100030: Bip01 R Thigh
+    100032: Bip01 R Toe0 1
+    100034: CA_HOF_commander_bottes
+    100036: CA_HOF_commander_casque
+    100038: CA_HOF_commander_pantabottes
+    100040: Bip01 L Toe0
+    100042: Bip01 R Calf
+    100044: Bip01 L Calf
+    100046: Bip01 L Toe0 1
+    100048: box_arme
+    100050: Bip01 L Foot
+    100052: Bip01 R Finger4R
+    100054: Bip01 L Thigh
+    100056: Bip01 R Finger3R
+    100058: Bip01 R Finger41
+    100060: Bip01 R Finger42
+    100062: Bip01 R Finger31
+    100064: Bip01 R Finger4
+    100066: Bip01 R Finger2R
+    100068: Bip01 R Finger32
+    100070: Bip01 R Finger21
+    100072: Bip01 R Finger3
+    100074: Bip01 R Finger1R
+    100076: Bip01 R Finger22
+    100078: Bip01 R Finger1
+    100080: Bip01 R Finger2
+    100082: Bip01 R Finger02
+    100084: Bip01 R Finger12
+    100086: Bip01 R Finger11
+    100088: CA_HOF_commander_hand
+    100090: CA_HOF_commander_gilet
+    100092: CA_HOF_commander_armpad
+    100094: Bip01 Footsteps
+    100096: Bip01
+    100098: Bip01 R Finger0
+    100100: Bip01 R Finger0R
+    100102: Bip01 R Forearm
+    100104: Bip01 R Finger01
+    100106: Bip01 R Clavicle
+    100108: Bip01 R Hand
+    100110: box_arme_gauche
+    100112: Bip01 R UpperArm
+    100114: Bip01 L Finger41
+    100116: Bip01 L Finger4 1
+    100118: Box_bouclier
+    100120: Bip01 L Finger2
+    100122: Bip01 L Finger2 1
+    100124: Bip01 L Finger12
+    100126: Bip01 L Finger21
+    100128: Bip01 L Finger1
+    100130: Bip01 L Finger1 1
+    100132: Bip01 L Finger02
+    100134: Bip01 L Finger11
+    100136: Bip01 L Finger0
+    100138: Bip01 L Finger0 1
+    100140: Bip01 L Forearm
+    100142: Bip01 L Finger01
+    100144: Bip01 L Clavicle
+    100146: Bip01 L Hand
+    100148: Bip01 Ponytail11
+    100150: Bip01 L UpperArm
+    100152: Bip01 Head 1
+    100154: Bip01 Ponytail1 1
+    100156: Bip01 Spine2
+    100158: Bip01 Ponytail1
+    100160: Bip01 Pelvis
+    100162: Bip01 Head
+    100164: Bip01 Spine1
+    100166: Bip01 Spine
+    100168: Bip01 Neck
+    400000: Bip01 L Finger3 1
+    400002: Bip01 L Finger42
+    400004: Bip01 L Finger3
+    400006: Bip01 L Finger4
+    400008: Bip01 L Finger22
+    400010: Bip01 L Finger32
+    400012: Bip01 L Finger31
+    400014: Bip01 Tail 1
+    400016: //RootNode
+    400018: Bip01 Tail1
+    400020: name
+    400022: Bip01 R Toe0
+    400024: Bip01 Tail2
+    400026: Bip01 R Foot
+    400028: Bip01 Tail
+    400030: Bip01 R Thigh
+    400032: Bip01 R Toe0 1
+    400034: CA_HOF_commander_bottes
+    400036: CA_HOF_commander_casque
+    400038: CA_HOF_commander_pantabottes
+    400040: Bip01 L Toe0
+    400042: Bip01 R Calf
+    400044: Bip01 L Calf
+    400046: Bip01 L Toe0 1
+    400048: box_arme
+    400050: Bip01 L Foot
+    400052: Bip01 R Finger4R
+    400054: Bip01 L Thigh
+    400056: Bip01 R Finger3R
+    400058: Bip01 R Finger41
+    400060: Bip01 R Finger42
+    400062: Bip01 R Finger31
+    400064: Bip01 R Finger4
+    400066: Bip01 R Finger2R
+    400068: Bip01 R Finger32
+    400070: Bip01 R Finger21
+    400072: Bip01 R Finger3
+    400074: Bip01 R Finger1R
+    400076: Bip01 R Finger22
+    400078: Bip01 R Finger1
+    400080: Bip01 R Finger2
+    400082: Bip01 R Finger02
+    400084: Bip01 R Finger12
+    400086: Bip01 R Finger11
+    400088: CA_HOF_commander_hand
+    400090: CA_HOF_commander_gilet
+    400092: CA_HOF_commander_armpad
+    400094: Bip01 Footsteps
+    400096: Bip01
+    400098: Bip01 R Finger0
+    400100: Bip01 R Finger0R
+    400102: Bip01 R Forearm
+    400104: Bip01 R Finger01
+    400106: Bip01 R Clavicle
+    400108: Bip01 R Hand
+    400110: box_arme_gauche
+    400112: Bip01 R UpperArm
+    400114: Bip01 L Finger41
+    400116: Bip01 L Finger4 1
+    400118: Box_bouclier
+    400120: Bip01 L Finger2
+    400122: Bip01 L Finger2 1
+    400124: Bip01 L Finger12
+    400126: Bip01 L Finger21
+    400128: Bip01 L Finger1
+    400130: Bip01 L Finger1 1
+    400132: Bip01 L Finger02
+    400134: Bip01 L Finger11
+    400136: Bip01 L Finger0
+    400138: Bip01 L Finger0 1
+    400140: Bip01 L Forearm
+    400142: Bip01 L Finger01
+    400144: Bip01 L Clavicle
+    400146: Bip01 L Hand
+    400148: Bip01 Ponytail11
+    400150: Bip01 L UpperArm
+    400152: Bip01 Head 1
+    400154: Bip01 Ponytail1 1
+    400156: Bip01 Spine2
+    400158: Bip01 Ponytail1
+    400160: Bip01 Pelvis
+    400162: Bip01 Head
+    400164: Bip01 Spine1
+    400166: Bip01 Spine
+    400168: Bip01 Neck
+    2300000: box_arme
+    2300002: box_arme_gauche
+    2300004: Box_bouclier
+    3300000: box_arme
+    3300002: box_arme_gauche
+    3300004: Box_bouclier
+    4300000: CA_HOF_commander_pantabottes
+    4300002: CA_HOF_commander_gilet
+    4300004: CA_HOF_commander_casque
+    4300006: CA_HOF_commander_armpad
+    4300008: CA_HOF_commander_bottes
+    4300010: box_arme_gauche
+    4300012: Box_bouclier
+    4300014: box_arme
+    4300016: CA_HOF_commander_hand
+    6400000: box_arme_gauche
+    6400002: Box_bouclier
+    6400004: box_arme
+    11100000: //RootNode
+    13700000: CA_HOF_commander_bottes
+    13700002: CA_HOF_commander_casque
+    13700004: CA_HOF_commander_pantabottes
+    13700006: CA_HOF_commander_hand
+    13700008: CA_HOF_commander_gilet
+    13700010: CA_HOF_commander_armpad
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.60000002
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

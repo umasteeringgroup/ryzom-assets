@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: b504abe4a27754ac9a6adf5edcf80d35
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Omni01
+    100002: Omni02 1
+    100004: Omni01 1
+    100006: Bip01 L Finger4
+    100008: Dummy12
+    100010: Bip01 L Finger32
+    100012: Bip01 L Finger31
+    100014: Bip01 L Finger3
+    100016: Dummy10
+    100018: Bip01 L Finger22
+    100020: Bip01 L Finger21
+    100022: Bip01 L Finger2
+    100024: Dummy08
+    100026: Bip01 L Finger12
+    100028: Bip01 L Finger11
+    100030: Bip01 L Finger1
+    100032: Dummy02
+    100034: Bip01 L Finger02
+    100036: Bip01 L Finger01
+    100038: Bip01 L Finger0
+    100040: Bip01 L Hand
+    100042: Bip01 L Forearm
+    100044: Bip01 L UpperArm
+    100046: Bip01 L Clavicle
+    100048: Dummy23
+    100050: Bip01 Ponytail22
+    100052: Bip01 Ponytail21
+    100054: Bip01 Ponytail2
+    100056: Dummy06
+    100058: Bip01 Ponytail12
+    100060: Bip01 Ponytail11
+    100062: Bip01 Ponytail1
+    100064: Dummy05
+    100066: Bip01 Head
+    100068: Bip01 Neck
+    100070: Bip01 Spine2
+    100072: Bip01 Spine1
+    100074: Bip01 Spine
+    100076: Bip01 Pelvis
+    100078: Bip01 Footsteps
+    100080: Bip01
+    100082: Omni02
+    100084: Bip01 R Toe0
+    100086: Bip01 R Foot
+    100088: Bip01 R Calf
+    100090: Bip01 R Thigh
+    100092: Bip01 L Toe0
+    100094: Bip01 L Foot
+    100096: Bip01 L Calf
+    100098: Bip01 L Thigh
+    100100: box_arme
+    100102: Dummy13
+    100104: Bip01 R Finger42
+    100106: Bip01 R Finger41
+    100108: Bip01 R Finger4
+    100110: Dummy11
+    100112: Bip01 R Finger32
+    100114: Bip01 R Finger31
+    100116: Bip01 R Finger3
+    100118: Dummy09
+    100120: Bip01 R Finger22
+    100122: Bip01 R Finger21
+    100124: Bip01 R Finger2
+    100126: Dummy07
+    100128: Bip01 R Finger12
+    100130: Bip01 R Finger11
+    100132: Bip01 R Finger1
+    100134: Dummy01
+    100136: Bip01 R Finger02
+    100138: Bip01 R Finger01
+    100140: Bip01 R Finger0
+    100142: Bip01 R Hand
+    100144: Bip01 R Forearm
+    100146: Bip01 R UpperArm
+    100148: Bip01 R Clavicle
+    100150: Box_bouclier
+    100152: box_arme_gauche
+    100154: Dummy14
+    100156: Bip01 L Finger42
+    100158: Bip01 L Finger41
+    100160: //RootNode
+    100162: TR_HOM_cheveux_lead
+    100164: name
+    100166: Dummy03
+    100168: Dummy04
+    400000: Omni01
+    400002: Omni02 1
+    400004: Omni01 1
+    400006: Bip01 L Finger4
+    400008: Dummy12
+    400010: Bip01 L Finger32
+    400012: Bip01 L Finger31
+    400014: Bip01 L Finger3
+    400016: Dummy10
+    400018: Bip01 L Finger22
+    400020: Bip01 L Finger21
+    400022: Bip01 L Finger2
+    400024: Dummy08
+    400026: Bip01 L Finger12
+    400028: Bip01 L Finger11
+    400030: Bip01 L Finger1
+    400032: Dummy02
+    400034: Bip01 L Finger02
+    400036: Bip01 L Finger01
+    400038: Bip01 L Finger0
+    400040: Bip01 L Hand
+    400042: Bip01 L Forearm
+    400044: Bip01 L UpperArm
+    400046: Bip01 L Clavicle
+    400048: Dummy23
+    400050: Bip01 Ponytail22
+    400052: Bip01 Ponytail21
+    400054: Bip01 Ponytail2
+    400056: Dummy06
+    400058: Bip01 Ponytail12
+    400060: Bip01 Ponytail11
+    400062: Bip01 Ponytail1
+    400064: Dummy05
+    400066: Bip01 Head
+    400068: Bip01 Neck
+    400070: Bip01 Spine2
+    400072: Bip01 Spine1
+    400074: Bip01 Spine
+    400076: Bip01 Pelvis
+    400078: Bip01 Footsteps
+    400080: Bip01
+    400082: Omni02
+    400084: Bip01 R Toe0
+    400086: Bip01 R Foot
+    400088: Bip01 R Calf
+    400090: Bip01 R Thigh
+    400092: Bip01 L Toe0
+    400094: Bip01 L Foot
+    400096: Bip01 L Calf
+    400098: Bip01 L Thigh
+    400100: box_arme
+    400102: Dummy13
+    400104: Bip01 R Finger42
+    400106: Bip01 R Finger41
+    400108: Bip01 R Finger4
+    400110: Dummy11
+    400112: Bip01 R Finger32
+    400114: Bip01 R Finger31
+    400116: Bip01 R Finger3
+    400118: Dummy09
+    400120: Bip01 R Finger22
+    400122: Bip01 R Finger21
+    400124: Bip01 R Finger2
+    400126: Dummy07
+    400128: Bip01 R Finger12
+    400130: Bip01 R Finger11
+    400132: Bip01 R Finger1
+    400134: Dummy01
+    400136: Bip01 R Finger02
+    400138: Bip01 R Finger01
+    400140: Bip01 R Finger0
+    400142: Bip01 R Hand
+    400144: Bip01 R Forearm
+    400146: Bip01 R UpperArm
+    400148: Bip01 R Clavicle
+    400150: Box_bouclier
+    400152: box_arme_gauche
+    400154: Dummy14
+    400156: Bip01 L Finger42
+    400158: Bip01 L Finger41
+    400160: //RootNode
+    400162: TR_HOM_cheveux_lead
+    400164: name
+    400166: Dummy03
+    400168: Dummy04
+    2300000: box_arme
+    2300002: Box_bouclier
+    2300004: box_arme_gauche
+    3300000: box_arme
+    3300002: Box_bouclier
+    3300004: box_arme_gauche
+    4300000: box_arme_gauche
+    4300002: Box_bouclier
+    4300004: box_arme
+    4300006: TR_HOM_cheveux_lead
+    11100000: //RootNode
+    13700000: TR_HOM_cheveux_lead
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.60000002
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

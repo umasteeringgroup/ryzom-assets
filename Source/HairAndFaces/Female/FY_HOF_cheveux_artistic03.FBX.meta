@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 346ba49f0002c45afa1ed9b5b23ff280
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Dummy06
+    100002: Bip01 L Forearm
+    100004: cheveux_go
+    100006: Bip01 L Clavicle
+    100008: Bip01 Ponytail1 1
+    100010: Dummy15
+    100012: Bip01 Ponytail11
+    100014: cheveux_dr
+    100016: Bip01 Head 1
+    100018: Bip01 Ponytail12
+    100020: Bip01 Neck
+    100022: Bip01 Ponytail1
+    100024: Bip01 Spine1
+    100026: Bip01 Head
+    100028: Bip01 Pelvis
+    100030: Bip01 Spine2
+    100032: Bip01
+    100034: Bip01 Spine
+    100036: Bip01 Footsteps
+    100038: FY_HOF_cheveux_artistic03
+    100040: Bip01 L Finger4 1
+    100042: Bip01 L Finger41
+    100044: Bip01 R Clavicle
+    100046: Bip01 L Finger3 1
+    100048: Bip01 L Finger42
+    100050: Bip01 L Finger31
+    100052: Bip01 L Finger4
+    100054: Bip01 L Finger2 1
+    100056: Bip01 L Finger32
+    100058: Bip01 L Finger21
+    100060: Bip01 L Finger3
+    100062: Bip01 L Finger1 1
+    100064: Bip01 L Finger22
+    100066: Bip01 L Finger11
+    100068: Bip01 L Finger2
+    100070: Bip01 L Finger0 1
+    100072: Bip01 L Finger12
+    100074: Bip01 L Finger0
+    100076: Bip01 L Finger1
+    100078: Bip01 L Hand
+    100080: Bip01 L Finger02
+    100082: Bip01 L UpperArm
+    100084: Bip01 L Finger01
+    100086: Bip01 R Finger21
+    100088: Bip01 R Finger3
+    100090: Bip01 R Finger1R
+    100092: Bip01 R Finger22
+    100094: Bip01 R Finger11
+    100096: Bip01 R Finger2
+    100098: Bip01 R Finger0R
+    100100: Bip01 R Finger12
+    100102: Bip01 R Finger01
+    100104: Bip01 R Finger1
+    100106: Bip01 R UpperArm
+    100108: Bip01 R Finger02
+    100110: Bip01 R Hand
+    100112: Bip01 R Forearm
+    100114: Bip01 R Finger0
+    100116: Bip01 R Calf
+    100118: Bip01 R Toe0 1
+    100120: Bip01 L Toe0 1
+    100122: Bip01 R Foot
+    100124: Bip01 L Foot
+    100126: Bip01 R Thigh
+    100128: Bip01 L Thigh
+    100130: Bip01 L Toe0
+    100132: Bip01 R Finger32
+    100134: Bip01 L Calf
+    100136: Bip01 R Finger41
+    100138: Bip01 R Finger4R
+    100140: Bip01 R Finger42
+    100142: Bip01 R Finger2R
+    100144: Bip01 R Finger4
+    100146: Bip01 R Finger31
+    100148: Bip01 R Finger3R
+    100150: Bip01 R Toe0
+    100152: //RootNode
+    400000: Dummy06
+    400002: Bip01 L Forearm
+    400004: cheveux_go
+    400006: Bip01 L Clavicle
+    400008: Bip01 Ponytail1 1
+    400010: Dummy15
+    400012: Bip01 Ponytail11
+    400014: cheveux_dr
+    400016: Bip01 Head 1
+    400018: Bip01 Ponytail12
+    400020: Bip01 Neck
+    400022: Bip01 Ponytail1
+    400024: Bip01 Spine1
+    400026: Bip01 Head
+    400028: Bip01 Pelvis
+    400030: Bip01 Spine2
+    400032: Bip01
+    400034: Bip01 Spine
+    400036: Bip01 Footsteps
+    400038: FY_HOF_cheveux_artistic03
+    400040: Bip01 L Finger4 1
+    400042: Bip01 L Finger41
+    400044: Bip01 R Clavicle
+    400046: Bip01 L Finger3 1
+    400048: Bip01 L Finger42
+    400050: Bip01 L Finger31
+    400052: Bip01 L Finger4
+    400054: Bip01 L Finger2 1
+    400056: Bip01 L Finger32
+    400058: Bip01 L Finger21
+    400060: Bip01 L Finger3
+    400062: Bip01 L Finger1 1
+    400064: Bip01 L Finger22
+    400066: Bip01 L Finger11
+    400068: Bip01 L Finger2
+    400070: Bip01 L Finger0 1
+    400072: Bip01 L Finger12
+    400074: Bip01 L Finger0
+    400076: Bip01 L Finger1
+    400078: Bip01 L Hand
+    400080: Bip01 L Finger02
+    400082: Bip01 L UpperArm
+    400084: Bip01 L Finger01
+    400086: Bip01 R Finger21
+    400088: Bip01 R Finger3
+    400090: Bip01 R Finger1R
+    400092: Bip01 R Finger22
+    400094: Bip01 R Finger11
+    400096: Bip01 R Finger2
+    400098: Bip01 R Finger0R
+    400100: Bip01 R Finger12
+    400102: Bip01 R Finger01
+    400104: Bip01 R Finger1
+    400106: Bip01 R UpperArm
+    400108: Bip01 R Finger02
+    400110: Bip01 R Hand
+    400112: Bip01 R Forearm
+    400114: Bip01 R Finger0
+    400116: Bip01 R Calf
+    400118: Bip01 R Toe0 1
+    400120: Bip01 L Toe0 1
+    400122: Bip01 R Foot
+    400124: Bip01 L Foot
+    400126: Bip01 R Thigh
+    400128: Bip01 L Thigh
+    400130: Bip01 L Toe0
+    400132: Bip01 R Finger32
+    400134: Bip01 L Calf
+    400136: Bip01 R Finger41
+    400138: Bip01 R Finger4R
+    400140: Bip01 R Finger42
+    400142: Bip01 R Finger2R
+    400144: Bip01 R Finger4
+    400146: Bip01 R Finger31
+    400148: Bip01 R Finger3R
+    400150: Bip01 R Toe0
+    400152: //RootNode
+    2300000: cheveux_go
+    2300002: cheveux_dr
+    3300000: cheveux_go
+    3300002: cheveux_dr
+    4300000: FY_HOF_cheveux_artistic03
+    4300002: cheveux_dr
+    4300004: cheveux_go
+    6400000: cheveux_go
+    6400002: cheveux_dr
+    11100000: //RootNode
+    13700000: Bip01 Head
+    13700002: FY_HOF_cheveux_artistic03
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.60000002
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

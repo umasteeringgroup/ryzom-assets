@@ -1,0 +1,868 @@
+fileFormatVersion: 2
+guid: 0a41a11b4f06d46b28cb1ab54965a3b5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01 Ponytail1 1
+    100002: Bip01 L UpperArm
+    100004: Bip01 L Clavicle
+    100006: Bip01 L Hand
+    100008: Bip01 L Forearm
+    100010: Bip01 L Finger4
+    100012: Bip01 L Finger41
+    100014: Bip01 Pelvis
+    100016: TR_HOF_underwear_gilet
+    100018: Bip01
+    100020: Bip01 Neck
+    100022: Bip01 Spine1
+    100024: Bip01 Spine
+    100026: visage_009
+    100028: //RootNode
+    100030: visage_008
+    100032: Text45
+    100034: visage_010
+    100036: Text42
+    100038: Text41
+    100040: Text43
+    100042: Text39
+    100044: Text38
+    100046: Text40
+    100048: Text44
+    100050: Rectangle01
+    100052: Text37
+    100054: visage_311
+    100056: visage_310
+    100058: MA_HOF_cheveux_shave10
+    100060: visage_314
+    100062: MA_HOF_cheveux_shave09
+    100064: MA_HOF_cheveux_shave06
+    100066: visage_308
+    100068: MA_HOF_cheveux_shave07
+    100070: visage_315
+    100072: visage_309
+    100074: MA_HOF_cheveux_shave04
+    100076: MA_HOF_cheveux_shave05
+    100078: visage_313
+    100080: visage_312
+    100082: MA_HOF_cheveux_shave02
+    100084: MA_HOF_cheveux_shave03
+    100086: Text36
+    100088: visage_007
+    100090: visage_TEST
+    100092: MA_HOF_visage_TEST
+    100094: MA_HOF_visage_EX04
+    100096: visage_000
+    100098: MA_HOF_visage_EX02
+    100100: MA_HOF_visage_EX03
+    100102: MA_HOF_visage_EX01
+    100104: visage_300
+    100106: visage_301
+    100108: visage_305
+    100110: visage_303
+    100112: visage_304
+    100114: visage_302
+    100116: visage_307
+    100118: visage_200
+    100120: visage_306
+    100122: visage_202
+    100124: visage_100
+    100126: visage_201
+    100128: visage_001
+    100130: visage_002
+    100132: visage_005
+    100134: visage_004
+    100136: visage_006
+    100138: visage_003
+    100140: Text34
+    100142: Text33
+    100144: Text35
+    100146: Text31
+    100148: Text30
+    100150: Text32
+    100152: Text28
+    100154: Text26
+    100156: Text29
+    100158: Text24
+    100160: Text23
+    100162: Text25
+    100164: Text16
+    100166: Text15
+    100168: Text17
+    100170: Text13
+    100172: Text11
+    100174: Text14
+    100176: Text09
+    100178: Text08
+    100180: Text10
+    100182: Text05
+    100184: Text04
+    100186: Text06
+    100188: Text02
+    100190: Text01
+    100192: Text03
+    100194: Rectangle08
+    100196: Rectangle07
+    100198: Rectangle09
+    100200: Rectangle02
+    100202: Omni01
+    100204: Rectangle06
+    100206: MA_HOF_cheveux20
+    100208: MA_HOF_visage
+    100210: MA_HOF_cheveux19
+    100212: MA_HOF_cheveux_shave01
+    100214: MA_HOF_cheveux17
+    100216: MA_HOF_cheveux16
+    100218: MA_HOF_cheveux18
+    100220: MA_HOF_cheveux14
+    100222: MA_HOF_cheveux13
+    100224: MA_HOF_cheveux15
+    100226: MA_HOF_cheveux11
+    100228: MA_HOF_cheveux10
+    100230: MA_HOF_cheveux12
+    100232: MA_HOF_cheveux08
+    100234: MA_HOF_cheveux07
+    100236: MA_HOF_cheveux09
+    100238: MA_HOF_cheveux05
+    100240: MA_HOF_cheveux04
+    100242: MA_HOF_cheveux06
+    100244: MA_HOF_cheveux02
+    100246: Bip01 R Toe0 1
+    100248: MA_HOF_cheveux03
+    100250: Bip01 R Thigh
+    100252: Bip01 R Foot
+    100254: Bip01 R Toe0
+    100256: Bip01 L Toe0
+    100258: Bip01 R Calf
+    100260: Bip01 L Calf
+    100262: Bip01 L Toe0 1
+    100264: Bip01 R Finger0R
+    100266: Bip01 L Foot
+    100268: Bip01 R Finger01
+    100270: Bip01 L Thigh
+    100272: Bip01 R Finger1R
+    100274: Bip01 R Finger02
+    100276: Bip01 R Finger11
+    100278: Bip01 R Finger0
+    100280: Bip01 R Finger2R
+    100282: Bip01 R Finger12
+    100284: Bip01 R Finger21
+    100286: Bip01 R Finger1
+    100288: Bip01 R Finger3R
+    100290: Bip01 R Finger22
+    100292: Bip01 R Finger31
+    100294: Bip01 R Finger2
+    100296: Bip01 R Finger4R
+    100298: Bip01 R Finger32
+    100300: Bip01 R Finger41
+    100302: Bip01 R Finger3
+    100304: Bip01 R Hand
+    100306: Bip01 R Finger42
+    100308: Bip01 R UpperArm
+    100310: Bip01 R Finger4
+    100312: Bip01 L Finger0 1
+    100314: Bip01 R Forearm
+    100316: Bip01 L Finger01
+    100318: Bip01 R Clavicle
+    100320: Bip01 L Finger1 1
+    100322: Bip01 L Finger02
+    100324: Bip01 L Finger11
+    100326: Bip01 L Finger0
+    100328: Bip01 L Finger2 1
+    100330: Bip01 L Finger12
+    100332: Bip01 L Finger21
+    100334: Bip01 L Finger1
+    100336: Bip01 L Finger3 1
+    100338: Bip01 L Finger22
+    100340: Bip01 L Finger31
+    100342: Bip01 L Finger2
+    100344: Bip01 L Finger4 1
+    100346: Bip01 L Finger32
+    100348: Bip01 L Finger3
+    100350: Bip01 L Finger42
+    100352: Bip01 Head
+    100354: Bip01 Ponytail1
+    100356: Bip01 Ponytail11
+    100358: Bip01 Spine2
+    100360: Bip01 Head 1
+    100362: Bip01 Footsteps
+    400000: Bip01 Ponytail1 1
+    400002: Bip01 L UpperArm
+    400004: Bip01 L Clavicle
+    400006: Bip01 L Hand
+    400008: Bip01 L Forearm
+    400010: Bip01 L Finger4
+    400012: Bip01 L Finger41
+    400014: Bip01 Pelvis
+    400016: TR_HOF_underwear_gilet
+    400018: Bip01
+    400020: Bip01 Neck
+    400022: Bip01 Spine1
+    400024: Bip01 Spine
+    400026: visage_009
+    400028: //RootNode
+    400030: visage_008
+    400032: Text45
+    400034: visage_010
+    400036: Text42
+    400038: Text41
+    400040: Text43
+    400042: Text39
+    400044: Text38
+    400046: Text40
+    400048: Text44
+    400050: Rectangle01
+    400052: Text37
+    400054: visage_311
+    400056: visage_310
+    400058: MA_HOF_cheveux_shave10
+    400060: visage_314
+    400062: MA_HOF_cheveux_shave09
+    400064: MA_HOF_cheveux_shave06
+    400066: visage_308
+    400068: MA_HOF_cheveux_shave07
+    400070: visage_315
+    400072: visage_309
+    400074: MA_HOF_cheveux_shave04
+    400076: MA_HOF_cheveux_shave05
+    400078: visage_313
+    400080: visage_312
+    400082: MA_HOF_cheveux_shave02
+    400084: MA_HOF_cheveux_shave03
+    400086: Text36
+    400088: visage_007
+    400090: visage_TEST
+    400092: MA_HOF_visage_TEST
+    400094: MA_HOF_visage_EX04
+    400096: visage_000
+    400098: MA_HOF_visage_EX02
+    400100: MA_HOF_visage_EX03
+    400102: MA_HOF_visage_EX01
+    400104: visage_300
+    400106: visage_301
+    400108: visage_305
+    400110: visage_303
+    400112: visage_304
+    400114: visage_302
+    400116: visage_307
+    400118: visage_200
+    400120: visage_306
+    400122: visage_202
+    400124: visage_100
+    400126: visage_201
+    400128: visage_001
+    400130: visage_002
+    400132: visage_005
+    400134: visage_004
+    400136: visage_006
+    400138: visage_003
+    400140: Text34
+    400142: Text33
+    400144: Text35
+    400146: Text31
+    400148: Text30
+    400150: Text32
+    400152: Text28
+    400154: Text26
+    400156: Text29
+    400158: Text24
+    400160: Text23
+    400162: Text25
+    400164: Text16
+    400166: Text15
+    400168: Text17
+    400170: Text13
+    400172: Text11
+    400174: Text14
+    400176: Text09
+    400178: Text08
+    400180: Text10
+    400182: Text05
+    400184: Text04
+    400186: Text06
+    400188: Text02
+    400190: Text01
+    400192: Text03
+    400194: Rectangle08
+    400196: Rectangle07
+    400198: Rectangle09
+    400200: Rectangle02
+    400202: Omni01
+    400204: Rectangle06
+    400206: MA_HOF_cheveux20
+    400208: MA_HOF_visage
+    400210: MA_HOF_cheveux19
+    400212: MA_HOF_cheveux_shave01
+    400214: MA_HOF_cheveux17
+    400216: MA_HOF_cheveux16
+    400218: MA_HOF_cheveux18
+    400220: MA_HOF_cheveux14
+    400222: MA_HOF_cheveux13
+    400224: MA_HOF_cheveux15
+    400226: MA_HOF_cheveux11
+    400228: MA_HOF_cheveux10
+    400230: MA_HOF_cheveux12
+    400232: MA_HOF_cheveux08
+    400234: MA_HOF_cheveux07
+    400236: MA_HOF_cheveux09
+    400238: MA_HOF_cheveux05
+    400240: MA_HOF_cheveux04
+    400242: MA_HOF_cheveux06
+    400244: MA_HOF_cheveux02
+    400246: Bip01 R Toe0 1
+    400248: MA_HOF_cheveux03
+    400250: Bip01 R Thigh
+    400252: Bip01 R Foot
+    400254: Bip01 R Toe0
+    400256: Bip01 L Toe0
+    400258: Bip01 R Calf
+    400260: Bip01 L Calf
+    400262: Bip01 L Toe0 1
+    400264: Bip01 R Finger0R
+    400266: Bip01 L Foot
+    400268: Bip01 R Finger01
+    400270: Bip01 L Thigh
+    400272: Bip01 R Finger1R
+    400274: Bip01 R Finger02
+    400276: Bip01 R Finger11
+    400278: Bip01 R Finger0
+    400280: Bip01 R Finger2R
+    400282: Bip01 R Finger12
+    400284: Bip01 R Finger21
+    400286: Bip01 R Finger1
+    400288: Bip01 R Finger3R
+    400290: Bip01 R Finger22
+    400292: Bip01 R Finger31
+    400294: Bip01 R Finger2
+    400296: Bip01 R Finger4R
+    400298: Bip01 R Finger32
+    400300: Bip01 R Finger41
+    400302: Bip01 R Finger3
+    400304: Bip01 R Hand
+    400306: Bip01 R Finger42
+    400308: Bip01 R UpperArm
+    400310: Bip01 R Finger4
+    400312: Bip01 L Finger0 1
+    400314: Bip01 R Forearm
+    400316: Bip01 L Finger01
+    400318: Bip01 R Clavicle
+    400320: Bip01 L Finger1 1
+    400322: Bip01 L Finger02
+    400324: Bip01 L Finger11
+    400326: Bip01 L Finger0
+    400328: Bip01 L Finger2 1
+    400330: Bip01 L Finger12
+    400332: Bip01 L Finger21
+    400334: Bip01 L Finger1
+    400336: Bip01 L Finger3 1
+    400338: Bip01 L Finger22
+    400340: Bip01 L Finger31
+    400342: Bip01 L Finger2
+    400344: Bip01 L Finger4 1
+    400346: Bip01 L Finger32
+    400348: Bip01 L Finger3
+    400350: Bip01 L Finger42
+    400352: Bip01 Head
+    400354: Bip01 Ponytail1
+    400356: Bip01 Ponytail11
+    400358: Bip01 Spine2
+    400360: Bip01 Head 1
+    400362: Bip01 Footsteps
+    2300000: TR_HOF_underwear_gilet
+    2300002: visage_009
+    2300004: visage_008
+    2300006: Text45
+    2300008: visage_010
+    2300010: Text42
+    2300012: Text41
+    2300014: Text43
+    2300016: Text39
+    2300018: Text38
+    2300020: Text40
+    2300022: Text44
+    2300024: Rectangle01
+    2300026: Text37
+    2300028: visage_311
+    2300030: visage_310
+    2300032: MA_HOF_cheveux_shave10
+    2300034: visage_314
+    2300036: MA_HOF_cheveux_shave09
+    2300038: MA_HOF_cheveux_shave06
+    2300040: visage_308
+    2300042: MA_HOF_cheveux_shave07
+    2300044: visage_315
+    2300046: visage_309
+    2300048: MA_HOF_cheveux_shave04
+    2300050: MA_HOF_cheveux_shave05
+    2300052: visage_313
+    2300054: visage_312
+    2300056: MA_HOF_cheveux_shave02
+    2300058: MA_HOF_cheveux_shave03
+    2300060: Text36
+    2300062: visage_007
+    2300064: visage_TEST
+    2300066: MA_HOF_visage_TEST
+    2300068: MA_HOF_visage_EX04
+    2300070: visage_000
+    2300072: MA_HOF_visage_EX02
+    2300074: MA_HOF_visage_EX03
+    2300076: MA_HOF_visage_EX01
+    2300078: visage_300
+    2300080: visage_301
+    2300082: visage_305
+    2300084: visage_303
+    2300086: visage_304
+    2300088: visage_302
+    2300090: visage_307
+    2300092: visage_200
+    2300094: visage_306
+    2300096: visage_202
+    2300098: visage_100
+    2300100: visage_201
+    2300102: visage_001
+    2300104: visage_002
+    2300106: visage_005
+    2300108: visage_004
+    2300110: visage_006
+    2300112: visage_003
+    2300114: Text34
+    2300116: Text33
+    2300118: Text35
+    2300120: Text31
+    2300122: Text30
+    2300124: Text32
+    2300126: Text28
+    2300128: Text26
+    2300130: Text29
+    2300132: Text24
+    2300134: Text23
+    2300136: Text25
+    2300138: Text16
+    2300140: Text15
+    2300142: Text17
+    2300144: Text13
+    2300146: Text11
+    2300148: Text14
+    2300150: Text09
+    2300152: Text08
+    2300154: Text10
+    2300156: Text05
+    2300158: Text04
+    2300160: Text06
+    2300162: Text02
+    2300164: Text01
+    2300166: Text03
+    2300168: Rectangle08
+    2300170: Rectangle07
+    2300172: Rectangle09
+    2300174: Rectangle02
+    2300176: Rectangle06
+    2300178: MA_HOF_cheveux20
+    2300180: MA_HOF_cheveux19
+    2300182: MA_HOF_cheveux_shave01
+    2300184: MA_HOF_cheveux17
+    2300186: MA_HOF_cheveux16
+    2300188: MA_HOF_cheveux18
+    2300190: MA_HOF_cheveux14
+    2300192: MA_HOF_cheveux13
+    2300194: MA_HOF_cheveux15
+    2300196: MA_HOF_cheveux11
+    2300198: MA_HOF_cheveux10
+    2300200: MA_HOF_cheveux12
+    2300202: MA_HOF_cheveux08
+    2300204: MA_HOF_cheveux07
+    2300206: MA_HOF_cheveux09
+    2300208: MA_HOF_cheveux05
+    2300210: MA_HOF_cheveux04
+    2300212: MA_HOF_cheveux06
+    2300214: MA_HOF_cheveux02
+    2300216: MA_HOF_cheveux03
+    3300000: TR_HOF_underwear_gilet
+    3300002: visage_009
+    3300004: visage_008
+    3300006: Text45
+    3300008: visage_010
+    3300010: Text42
+    3300012: Text41
+    3300014: Text43
+    3300016: Text39
+    3300018: Text38
+    3300020: Text40
+    3300022: Text44
+    3300024: Rectangle01
+    3300026: Text37
+    3300028: visage_311
+    3300030: visage_310
+    3300032: MA_HOF_cheveux_shave10
+    3300034: visage_314
+    3300036: MA_HOF_cheveux_shave09
+    3300038: MA_HOF_cheveux_shave06
+    3300040: visage_308
+    3300042: MA_HOF_cheveux_shave07
+    3300044: visage_315
+    3300046: visage_309
+    3300048: MA_HOF_cheveux_shave04
+    3300050: MA_HOF_cheveux_shave05
+    3300052: visage_313
+    3300054: visage_312
+    3300056: MA_HOF_cheveux_shave02
+    3300058: MA_HOF_cheveux_shave03
+    3300060: Text36
+    3300062: visage_007
+    3300064: visage_TEST
+    3300066: MA_HOF_visage_TEST
+    3300068: MA_HOF_visage_EX04
+    3300070: visage_000
+    3300072: MA_HOF_visage_EX02
+    3300074: MA_HOF_visage_EX03
+    3300076: MA_HOF_visage_EX01
+    3300078: visage_300
+    3300080: visage_301
+    3300082: visage_305
+    3300084: visage_303
+    3300086: visage_304
+    3300088: visage_302
+    3300090: visage_307
+    3300092: visage_200
+    3300094: visage_306
+    3300096: visage_202
+    3300098: visage_100
+    3300100: visage_201
+    3300102: visage_001
+    3300104: visage_002
+    3300106: visage_005
+    3300108: visage_004
+    3300110: visage_006
+    3300112: visage_003
+    3300114: Text34
+    3300116: Text33
+    3300118: Text35
+    3300120: Text31
+    3300122: Text30
+    3300124: Text32
+    3300126: Text28
+    3300128: Text26
+    3300130: Text29
+    3300132: Text24
+    3300134: Text23
+    3300136: Text25
+    3300138: Text16
+    3300140: Text15
+    3300142: Text17
+    3300144: Text13
+    3300146: Text11
+    3300148: Text14
+    3300150: Text09
+    3300152: Text08
+    3300154: Text10
+    3300156: Text05
+    3300158: Text04
+    3300160: Text06
+    3300162: Text02
+    3300164: Text01
+    3300166: Text03
+    3300168: Rectangle08
+    3300170: Rectangle07
+    3300172: Rectangle09
+    3300174: Rectangle02
+    3300176: Rectangle06
+    3300178: MA_HOF_cheveux20
+    3300180: MA_HOF_cheveux19
+    3300182: MA_HOF_cheveux_shave01
+    3300184: MA_HOF_cheveux17
+    3300186: MA_HOF_cheveux16
+    3300188: MA_HOF_cheveux18
+    3300190: MA_HOF_cheveux14
+    3300192: MA_HOF_cheveux13
+    3300194: MA_HOF_cheveux15
+    3300196: MA_HOF_cheveux11
+    3300198: MA_HOF_cheveux10
+    3300200: MA_HOF_cheveux12
+    3300202: MA_HOF_cheveux08
+    3300204: MA_HOF_cheveux07
+    3300206: MA_HOF_cheveux09
+    3300208: MA_HOF_cheveux05
+    3300210: MA_HOF_cheveux04
+    3300212: MA_HOF_cheveux06
+    3300214: MA_HOF_cheveux02
+    3300216: MA_HOF_cheveux03
+    4300000: TR_HOF_underwear_gilet
+    4300002: MA_HOF_cheveux02
+    4300004: MA_HOF_cheveux03
+    4300006: MA_HOF_cheveux04
+    4300008: MA_HOF_cheveux05
+    4300010: MA_HOF_cheveux06
+    4300012: MA_HOF_cheveux07
+    4300014: MA_HOF_cheveux08
+    4300016: MA_HOF_cheveux09
+    4300018: MA_HOF_cheveux10
+    4300020: MA_HOF_cheveux11
+    4300022: MA_HOF_cheveux12
+    4300024: MA_HOF_cheveux13
+    4300026: MA_HOF_cheveux14
+    4300028: MA_HOF_cheveux15
+    4300030: MA_HOF_cheveux16
+    4300032: MA_HOF_cheveux17
+    4300034: MA_HOF_cheveux18
+    4300036: MA_HOF_cheveux19
+    4300038: MA_HOF_cheveux20
+    4300040: MA_HOF_cheveux_shave01
+    4300042: MA_HOF_visage
+    4300044: Rectangle02
+    4300046: Rectangle06
+    4300048: Rectangle07
+    4300050: Rectangle08
+    4300052: Rectangle09
+    4300054: Text01
+    4300056: Text02
+    4300058: Text03
+    4300060: Text04
+    4300062: Text05
+    4300064: Text06
+    4300066: Text08
+    4300068: Text09
+    4300070: Text10
+    4300072: Text11
+    4300074: Text13
+    4300076: Text14
+    4300078: Text15
+    4300080: Text16
+    4300082: Text17
+    4300084: Text23
+    4300086: Text24
+    4300088: Text25
+    4300090: Text26
+    4300092: Text28
+    4300094: Text29
+    4300096: Text30
+    4300098: Text31
+    4300100: Text32
+    4300102: Text33
+    4300104: Text34
+    4300106: Text35
+    4300108: visage_006
+    4300110: visage_004
+    4300112: visage_003
+    4300114: visage_002
+    4300116: visage_001
+    4300118: visage_005
+    4300120: visage_100
+    4300122: visage_202
+    4300124: visage_201
+    4300126: visage_200
+    4300128: visage_307
+    4300130: visage_306
+    4300132: visage_304
+    4300134: visage_303
+    4300136: visage_302
+    4300138: visage_301
+    4300140: visage_300
+    4300142: visage_305
+    4300144: MA_HOF_visage_EX03
+    4300146: MA_HOF_visage_EX02
+    4300148: MA_HOF_visage_EX01
+    4300150: MA_HOF_visage_EX04
+    4300152: MA_HOF_visage_TEST
+    4300154: visage_000
+    4300156: visage_007
+    4300158: Text36
+    4300160: visage_TEST
+    4300162: MA_HOF_cheveux_shave02
+    4300164: visage_313
+    4300166: MA_HOF_cheveux_shave03
+    4300168: visage_312
+    4300170: MA_HOF_cheveux_shave04
+    4300172: visage_315
+    4300174: MA_HOF_cheveux_shave05
+    4300176: visage_309
+    4300178: MA_HOF_cheveux_shave06
+    4300180: visage_308
+    4300182: MA_HOF_cheveux_shave07
+    4300184: visage_314
+    4300186: MA_HOF_cheveux_shave09
+    4300188: visage_310
+    4300190: visage_311
+    4300192: MA_HOF_cheveux_shave10
+    4300194: Rectangle01
+    4300196: Text44
+    4300198: Text37
+    4300200: Text38
+    4300202: Text39
+    4300204: Text40
+    4300206: Text41
+    4300208: Text42
+    4300210: Text43
+    4300212: Text45
+    4300214: visage_008
+    4300216: visage_010
+    4300218: visage_009
+    6400000: visage_301
+    6400002: Text05
+    6400004: Text31
+    6400006: MA_HOF_visage_TEST
+    6400008: visage_307
+    6400010: MA_HOF_cheveux19
+    6400012: MA_HOF_cheveux18
+    6400014: Text40
+    6400016: Rectangle08
+    6400018: MA_HOF_cheveux16
+    6400020: MA_HOF_cheveux_shave04
+    6400022: MA_HOF_cheveux_shave06
+    6400024: visage_303
+    6400026: Text29
+    6400028: MA_HOF_visage_EX04
+    6400030: Text28
+    6400032: visage_001
+    6400034: Rectangle01
+    6400036: visage_309
+    6400038: visage_311
+    6400040: Text26
+    6400042: MA_HOF_cheveux06
+    6400044: MA_HOF_cheveux11
+    6400046: visage_009
+    6400048: visage_004
+    6400050: MA_HOF_cheveux10
+    6400052: MA_HOF_cheveux13
+    6400054: Text02
+    6400056: visage_315
+    6400058: Text38
+    6400060: Text23
+    6400062: Rectangle09
+    6400064: MA_HOF_cheveux05
+    6400066: TR_HOF_underwear_gilet
+    6400068: MA_HOF_cheveux14
+    6400070: visage_302
+    6400072: Text30
+    6400074: Text06
+    6400076: MA_HOF_cheveux_shave03
+    6400078: MA_HOF_cheveux_shave10
+    6400080: Rectangle06
+    6400082: MA_HOF_cheveux_shave05
+    6400084: Rectangle07
+    6400086: MA_HOF_cheveux08
+    6400088: Text11
+    6400090: visage_000
+    6400092: Text33
+    6400094: Text45
+    6400096: Text03
+    6400098: MA_HOF_cheveux04
+    6400100: visage_201
+    6400102: Text10
+    6400104: MA_HOF_visage_EX03
+    6400106: Text16
+    6400108: Text04
+    6400110: Text08
+    6400112: MA_HOF_cheveux07
+    6400114: visage_310
+    6400116: Text09
+    6400118: visage_312
+    6400120: MA_HOF_cheveux03
+    6400122: visage_308
+    6400124: Text34
+    6400126: visage_100
+    6400128: MA_HOF_cheveux12
+    6400130: Text36
+    6400132: MA_HOF_visage_EX02
+    6400134: visage_010
+    6400136: Text42
+    6400138: MA_HOF_cheveux17
+    6400140: Text01
+    6400142: MA_HOF_cheveux20
+    6400144: visage_314
+    6400146: MA_HOF_cheveux_shave09
+    6400148: Text13
+    6400150: Text17
+    6400152: Text32
+    6400154: MA_HOF_cheveux02
+    6400156: Text15
+    6400158: visage_202
+    6400160: Text37
+    6400162: Text24
+    6400164: Text44
+    6400166: visage_008
+    6400168: Text35
+    6400170: Text25
+    6400172: Text43
+    6400174: visage_200
+    6400176: visage_TEST
+    6400178: visage_007
+    6400180: visage_305
+    6400182: Rectangle02
+    6400184: visage_313
+    6400186: MA_HOF_cheveux_shave01
+    6400188: MA_HOF_cheveux09
+    6400190: MA_HOF_cheveux_shave07
+    6400192: MA_HOF_cheveux15
+    6400194: visage_005
+    6400196: visage_003
+    6400198: visage_306
+    6400200: Text41
+    6400202: visage_300
+    6400204: MA_HOF_cheveux_shave02
+    6400206: Text39
+    6400208: visage_002
+    6400210: visage_304
+    6400212: visage_006
+    6400214: MA_HOF_visage_EX01
+    6400216: Text14
+    11100000: //RootNode
+    13700000: MA_HOF_visage
+    13700002: MA_HOF_visage_EX01
+    13700004: MA_HOF_visage_EX02
+    13700006: MA_HOF_visage_EX03
+    13700008: MA_HOF_visage_EX04
+    13700010: MA_HOF_visage_TEST
+    13700012: visage_TEST
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.60000002
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
